@@ -1,7 +1,8 @@
 // Author: Alex Koretke ajk6357@psu.edu
 // Collaborator: Riwk Sen sbs6426@psu.edu
 // Collaborator: Kyle Funck kjf5474@psu.edu
-// Collaborator: Hannah John
+// Collaborator: Hannah Johnston hlj5107@psu.edu
+
 
 #include <stdio.h>
 #include <readline/readline.h>
