@@ -8,7 +8,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char *temperature = readline("Enter temperature in Celsius: ");
+  char *temperature = readline("Enter temperature in celsius: ");
   double celsius = atof(temperature);
   double fahrenheit = celsius*9/5 + 32;
 
